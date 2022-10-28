@@ -1,19 +1,23 @@
-- name: Software Engineer Keywords
+- name: ESL/CModel Engineer Keywords
   keywords:
-      - Java
+      - Computer Architecture
+      - Parallel Computing
       - C++
       - Python
-      - Design Patterns
+      - Modeling Methodology
 
-- name: Mobile Developer Keywords
+- name: CPU/NPU Design Engineer Keywords
   keywords:
-      - Android
-      - Reverse Engineering
+      - CPU microarchitecture
+      - Pipeline
+      - Cache
+      - Coherent Bus
+      - Co-processor
+      - Vector Processor
 
-- name: Windows Developer Keywords
+- name: Analog/Mixed-signal Circuits Design Engineer Keywords
   keywords:
-      - Win32 SDK
-      - DuiLib
-      - WTL
-      - COM
-      - WinDbg
+      - Hspice
+      - Calibre
+      - Virtuoso
+      - ADC/LDO/PLL
